@@ -8,7 +8,7 @@ import json
 import os
 
 http = urllib3.PoolManager()
-api_key = "amaRlgZ0ZbPKBDEHqRQYXsYGGlJr50a3YQ84fApd"
+api_key = ""
 
 proxies = [
     {"http": "http://145.239.85.58:9300"},
